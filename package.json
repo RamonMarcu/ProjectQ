@@ -1,0 +1,25 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "Cypress project",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run": "cypress run",
+    "cypress:run:chrome": "cypress run --headless"
+  },
+  "keywords": [
+    "e2e",
+    "tests",
+    "cypress",
+    "automation",
+    "frameworks"
+  ],
+  "author": "ramon",
+  "license": "ISC", 
+  "devDependencies": {
+    "electron": "^29.1.5"
+  },
+  "dependencies": {
+    "cypress": "^10.11.0"
+  }
+}

@@ -1,0 +1,64 @@
+Test scenarios:
+
+
+
+A. 
+
+1.Launches the shopping application
+2.Checks if the given key words are displayed correctly on the homepage
+
+
+
+B. 
+
+1.Lunches the shopping application
+2.Navigates and checks if the URL is correct after action 
+
+
+C. 
+
+1.Lunches the shopping application
+2.Navigates to “Create and Account” 
+3.Check if the URL is correct after action
+4.Fills in the mandatory fields with valid data (first name, last name, email address and password)
+5.Creates an Account 
+
+
+D. - Refactored C script
+
+
+E. 
+
+1.Lunches the shopping application in the given URL (women section, tops )
+2.Identifies a specific product and clicks on it
+3.Waits a given time for the app to load
+4.Selects specific size and color
+5.Changes and checks modified given quantity
+6.Adds product to cart 
+
+
+F.
+
+1.Lunches the shopping application in the given URL (man section, bottoms )
+2.Identifies a specific product and clicks on it
+3.Waits a given time for the app to load
+4.Selects specific size and color
+5.Changes and checks modified given quantity
+6.Adds product to cart 
+
+
+G. 
+
+1.Lunches the shopping app
+2.Clicks on sign in
+3.Fills in the given fields with an existing account data ( email and password)
+4.Checks URL of customer account (successfully logs in) 
+
+
+H. 
+
+1.Lunches the shopping app
+2.Clicks on sign in
+3.Fills in the given fields with an existing account data ( email and password)
+4.Checks URL of customer account (successfully logs in) 
+5.Navigates to checkout page and proceed check out 
