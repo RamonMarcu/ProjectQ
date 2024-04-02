@@ -55,10 +55,4 @@ G.
 4.Checks URL of customer account (successfully logs in) 
 
 
-H. 
 
-1.Lunches the shopping app
-2.Clicks on sign in
-3.Fills in the given fields with an existing account data ( email and password)
-4.Checks URL of customer account (successfully logs in) 
-5.Navigates to checkout page and proceed check out 
